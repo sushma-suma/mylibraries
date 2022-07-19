@@ -1,6 +1,6 @@
 def newGit(repo)
 {
-  echo "${repo}
+   git "${repo}
 }
 def newMaven()
 {
